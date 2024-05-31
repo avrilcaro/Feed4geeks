@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(240, 240, 240);
+    margin: 0%;
+}
+
+.header {
+    background-color: white;
+    display: flex;
+   justify-content: top;
+   justify-content: center;
+   align-items: center;
+}
+
+.title {
+    width: 450px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;   
+}
+
+.feed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.post1 {
+    background-color: white;
+    width:450px;
+    height: 410px;
+    margin-top: 70px;
+}
+
+.user1 {
+    display: flex;
+justify-content: space-between;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.description1 {
+    margin-left: 20px;
+    display: flex;
+    align-items: start;
+}
+
+.post2 {
+    background-color: white;
+    width:450px;
+    height: 400px;
+    margin-top: 30px;
+}
+
+.post3 {
+    background-color: white;
+    width:450px;
+    height: 425px;
+    margin-top: 30px;
+}
+
+.post4 {
+    background-color: white;
+    width:450px;
+    height: 400px;
+    margin-top: 30px;
+}
+
+.post5 {
+    background-color: white;
+    width:450px;
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+.secretmargin {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(240, 240, 240);
+}
